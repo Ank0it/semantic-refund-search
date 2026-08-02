@@ -1,0 +1,23 @@
+semantic-refund-search/
+│
+├── app/
+│   ├── __init__.py
+│   ├── api.py
+│   ├── config.py
+│   ├── ingest.py
+│   ├── models.py
+│   └── search.py
+│
+├── data/
+│
+├── chroma_db/
+│
+├── tests/
+│
+├── requirements.txt
+│
+├── README.md
+│
+├── main.py
+│
+└── .gitignore
