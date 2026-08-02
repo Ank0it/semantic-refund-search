@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# ChromaDB
+chroma_db/
+
+# Model Cache
+.cache/
+huggingface/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
