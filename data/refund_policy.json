@@ -1,0 +1,495 @@
+[
+{
+"id": "RP001",
+"title": "General Refund Eligibility",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Customers may request a refund for eligible purchases when the product meets the conditions described in this policy. To qualify, the item must have been purchased directly through the company's online store, and the request must be submitted within the applicable return period. Products that show excessive wear, intentional damage, or missing essential components may not qualify for a refund. Refund approval is based on the condition of the returned item and verification of the original purchase. The company reserves the right to deny refund requests that do not satisfy policy requirements or that appear to involve misuse of the return process. Approved refunds are processed using the original payment method whenever possible."
+},
+{
+"id": "RP002",
+"title": "Products Excluded from Refunds",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Certain products are not eligible for refunds because of their nature or condition after purchase. Items that have been customized, personalized, or modified according to customer specifications cannot be refunded unless they arrive damaged or contain a verified manufacturing defect. Products returned without all required accessories or original packaging may also be refused if the missing components prevent inspection or resale. Refund requests for items intentionally damaged after delivery are not accepted. Customers should carefully review product details before completing a purchase, as approval depends on compliance with the eligibility requirements described in the refund policy."
+},
+{
+"id": "RP003",
+"title": "Refund Review Process",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Every refund request is reviewed individually after the returned product is received and inspected by the fulfillment team. During the review, the company verifies the purchase record, confirms the returned item matches the original order, and evaluates the condition of the product. Customers may be contacted if additional information is required to complete the assessment. A refund request may be approved, partially approved if specific conditions apply, or denied when policy requirements are not met. Customers receive an email notification explaining the decision once the review has been completed. The review process helps ensure fair treatment for all customers while protecting against fraudulent claims."
+},
+{
+"id": "RP004",
+"title": "Return Window for Standard Items",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Most physical products may be returned within 30 calendar days from the recorded delivery date. The return request must be initiated before the return window expires, even if the package is shipped back shortly afterward. Items submitted after the eligible period are generally not accepted unless a documented shipping delay or exceptional circumstance has been approved by customer support. Customers are encouraged to inspect products immediately after delivery to ensure any issues are identified while the return window remains open. Requests submitted within the allowed timeframe are evaluated according to the remaining conditions of the return policy."
+},
+{
+"id": "RP005",
+"title": "Return Window for Seasonal Products",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Seasonal and limited-release products may be subject to a shorter return period than standard merchandise. When a reduced return window applies, the applicable deadline is displayed on the product page before checkout and confirmed in the order confirmation. Customers should review these dates carefully because the standard return period does not automatically apply to time-sensitive inventory. Once the published return deadline has passed, the company is generally unable to accept the item for refund or exchange unless the product was delivered with a verified defect or shipping damage. This policy supports efficient inventory planning for seasonal merchandise."
+},
+{
+"id": "RP006",
+"title": "Condition Required for Returns",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Returned products should be clean, complete, and in substantially the same condition as when they were delivered. Whenever possible, customers should include the original packaging, accessories, manuals, and any promotional items that accompanied the purchase. Products showing signs of misuse, unauthorized repair attempts, or missing essential components may not qualify for return approval. Reasonable inspection by the customer is permitted, but extensive use beyond normal evaluation may affect eligibility. If the returned condition prevents accurate inspection or resale, the company may reject the return or apply a reduced refund when permitted under company policy."
+},
+{
+"id": "RP007",
+"title": "Late Return Requests",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Return requests submitted after the published return period are generally considered ineligible. Customers who experience exceptional circumstances, such as documented delivery problems or verified customer support errors, may contact support for an individual review. Approval of exceptions is not guaranteed and depends on available evidence and compliance with the overall policy. If an exception is granted, the customer will receive specific return instructions and a revised deadline. Failure to follow those instructions may result in cancellation of the approved exception. This process ensures consistency while allowing reasonable flexibility for uncommon situations."
+},
+{
+"id": "RP008",
+"title": "Exchange Eligibility",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Customers may request an exchange when an eligible product is received in the wrong size, color, or variation, or when a replacement is preferred instead of a refund. Exchange requests must be submitted within the applicable return window and the original product must satisfy all return condition requirements. Exchanges are available only for products that remain in stock at the time the request is approved. If the requested replacement is unavailable, customers may choose an alternative eligible item or request a refund if the purchase qualifies under the refund policy. Exchange approval follows the same inspection standards applied to returns."
+},
+{
+"id": "RP009",
+"title": "Exchange for Defective Products",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Products that arrive with verified manufacturing defects may qualify for an exchange after inspection by the support team. Customers should report the issue promptly and provide sufficient information to help identify the defect. Once the claim is validated, the company will arrange shipment of a replacement product when inventory is available. If an identical replacement cannot be provided, customers may be offered a comparable item or an eligible refund. Damage caused by improper handling, accidental misuse, or unauthorized modifications after delivery is not considered a manufacturing defect and does not qualify under this exchange policy."
+},
+{
+"id": "RP010",
+"title": "Exchange Availability Limitations",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Product exchanges depend on inventory availability at the time an approved request is processed. Reserving replacement inventory before inspection is not guaranteed because stock levels may change. If the requested replacement becomes unavailable during the review process, customer support will present available alternatives whenever possible. Customers may accept a different eligible product, wait for a confirmed restock if one is planned, or request a refund if the original purchase qualifies under the refund policy. This approach helps maintain fairness by allocating replacement inventory based on confirmed approvals rather than pending requests."
+},
+{
+"id": "RP011",
+"title": "Order Cancellation Before Processing",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may cancel an order without penalty before fulfillment begins. Once a cancellation request is received, the system verifies whether the order has entered processing. If preparation has not started, the order is canceled and any payment authorization or completed payment is reversed according to the payment provider's processing timeline. Customers receive confirmation after the cancellation has been completed. Orders already assigned for packing or shipment cannot be canceled through the standard process and may instead be eligible for return after delivery if they satisfy the applicable return policy requirements."
+},
+{
+"id": "RP012",
+"title": "Cancellation After Processing Begins",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Once an order enters the fulfillment process, cancellation may no longer be possible because warehouse operations begin preparing the shipment. Processing includes activities such as inventory allocation, packaging, quality verification, and shipping label creation. If a cancellation request is received after processing has started, customer support reviews whether fulfillment can still be stopped without disrupting operations. If cancellation cannot be completed, the customer may refuse delivery where permitted or request a return after receiving the product, provided the item remains eligible under the return policy."
+},
+{
+"id": "RP013",
+"title": "Automatic Cancellation for Payment Failure",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Orders may be canceled automatically when payment authorization cannot be completed within the required timeframe. This may occur because of declined transactions, expired payment methods, security verification failures, or incomplete payment processing. Automatic cancellation releases reserved inventory so it becomes available for other customers. If payment was partially completed before cancellation, any eligible amount is returned through the original payment method according to standard processing timelines. Customers wishing to complete the purchase after automatic cancellation should submit a new order using a valid payment method."
+},
+{
+"id": "RP014",
+"title": "Modifying Shipping Address",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request changes to the shipping address before an order enters fulfillment. Address updates are processed only after verification to reduce the risk of unauthorized modifications. Once warehouse processing or shipment has started, address changes are generally unavailable through customer support because shipping information has already been transferred to the carrier. Customers should carefully review their shipping details before placing an order to avoid delivery issues. If an incorrect address cannot be updated in time, available solutions depend on the carrier's delivery options and the company's return procedures."
+},
+{
+"id": "RP015",
+"title": "Changing Items in an Existing Order",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request modifications to the products contained in an order before fulfillment begins. Changes may include replacing an item with another eligible product, adjusting quantities, or removing products from the order. All requested changes are subject to inventory availability, pricing differences, promotional eligibility, and successful review by customer support. If the requested modification cannot be completed because fulfillment has already started, customers may need to receive the original order and use the standard return or exchange process where applicable. Confirmation is provided once the modification request has been completed or declined."
+},
+{
+"id": "RP016",
+"title": "Updating Order Quantity",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Quantity adjustments may be requested before warehouse processing begins. Increasing the quantity depends on current inventory availability and successful payment authorization for any additional charges. Reducing the quantity may result in revised pricing if promotional discounts or bundle offers no longer apply after the change. Customer support reviews each request individually before confirming the updated order details. Once fulfillment has started, quantity modifications are generally unavailable because inventory has already been allocated for shipment. Customers receive confirmation if the requested adjustment is successfully completed."
+},
+{
+"id": "RP017",
+"title": "Combining Multiple Orders",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers who place multiple orders within a short period may request that eligible orders be combined before fulfillment begins. Approval depends on whether the orders share the same shipping destination, payment status, and fulfillment schedule. Combined shipments are not guaranteed because warehouse processing may begin at different times for each order. If combining is approved, customers receive an updated order confirmation reflecting the revised shipment. If the request cannot be completed before processing starts, each order continues through the standard fulfillment process independently without affecting return or refund eligibility."
+},
+{
+"id": "RP018",
+"title": "Cancellation of Preordered Items",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Preordered products may generally be canceled before the item is prepared for shipment. Because preorders reserve future inventory, cancellation requests should be submitted as early as possible. Once fulfillment begins for the preorder, the standard cancellation limitations apply. If payment has already been collected and the cancellation is approved, the refund is issued through the original payment method according to normal processing procedures. Customers should review estimated release dates carefully because shipment timing may change before inventory becomes available for dispatch."
+},
+{
+"id": "RP019",
+"title": "Order Modification Verification",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "For security purposes, customer support may verify account ownership before processing requests to modify or cancel an order. Verification may include confirming order details, billing information, or other purchase-related information associated with the account. Requests that cannot be verified may be declined to protect customers against unauthorized account activity. Verification requirements apply regardless of the requested modification and may affect processing time if additional information is needed. Customers are encouraged to ensure their account information remains accurate to help avoid delays when requesting legitimate order changes."
+},
+{
+"id": "RP020",
+"title": "Final Confirmation of Order Changes",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "An order modification becomes effective only after the customer receives official confirmation from the company. Submitting a request does not guarantee that the requested change has been completed because inventory availability, payment verification, and fulfillment status must first be evaluated. Customers should continue monitoring their confirmation email or account order history until the update is confirmed. If no confirmation is received before shipment, the original order details remain in effect. Any issues discovered after delivery may be addressed through the applicable return, exchange, or refund policies if eligibility requirements are satisfied."
+},
+{
+"id": "RP021",
+"title": "Refund Processing Timeline",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Once a refund request has been approved and any required product inspection has been completed, the refund enters the payment processing stage. Processing times vary depending on the original payment method and the financial institution involved. The company initiates the refund promptly after approval, but the final credit may not appear immediately in the customer's account. Customers receive a confirmation notification when the refund has been submitted for processing. If the expected processing period has passed without the refund appearing, customers should first contact their payment provider before requesting additional assistance from customer support."
+},
+{
+"id": "RP022",
+"title": "Partial Refund Eligibility",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "A partial refund may be issued when a returned product does not fully satisfy the standard return conditions but still retains recoverable value. Examples include items returned with minor cosmetic wear, incomplete packaging, or missing nonessential accessories. The amount deducted reflects the reduced value or additional handling required to process the return. Customers are informed of the proposed partial refund before completion whenever practical. Acceptance of a partial refund concludes the refund request for that item, and no further compensation will be provided unless a separate issue is identified and verified."
+},
+{
+"id": "RP023",
+"title": "Refunds for Incorrect Shipments",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "If a customer receives an item that differs from the confirmed order, the company will review the shipment details to determine the appropriate resolution. Customers should report the issue promptly and retain the received product until further instructions are provided. After verification, the company may arrange a replacement shipment, an exchange, or a refund depending on product availability and customer preference. Refund eligibility is not affected when the error resulted from the company's fulfillment process. Customers should avoid using incorrectly delivered products before the review has been completed to ensure an accurate assessment."
+},
+{
+"id": "RP024",
+"title": "Refund Requests for Damaged Deliveries",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Products that arrive with visible shipping damage may qualify for a refund or replacement after verification. Customers are encouraged to inspect packages immediately upon delivery and report any damage as soon as reasonably possible. Supporting information such as photographs of the packaging and the damaged product may be requested to assist the investigation. The company evaluates whether the damage occurred during transportation or after delivery before determining eligibility. Approved claims may result in a refund, replacement, or exchange depending on inventory availability and the customer's preferred resolution."
+},
+{
+"id": "RP025",
+"title": "Refunds for Duplicate Purchases",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "If the same product is purchased multiple times unintentionally, customers should contact support as soon as the duplicate order is identified. Duplicate purchase requests are reviewed by comparing order history, payment records, and fulfillment status. If the additional order has not entered fulfillment, it may be canceled and refunded according to the cancellation policy. If fulfillment has already begun, the duplicate order follows the standard return process after delivery. Each request is evaluated individually to distinguish accidental duplicate purchases from separate intentional transactions."
+},
+{
+"id": "RP026",
+"title": "Return Authorization Requirement",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Customers should obtain return authorization before sending products back to the company. The authorization process confirms that the request falls within the applicable return policy and provides the correct return instructions. Products returned without prior authorization may experience processing delays because the shipment cannot immediately be matched to a customer account or approved request. Return authorization also helps ensure that items are sent to the correct inspection facility. Receiving authorization does not automatically guarantee a refund, as the returned product must still satisfy all applicable inspection and eligibility requirements."
+},
+{
+"id": "RP027",
+"title": "Inspection of Returned Products",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Every returned product undergoes a quality inspection before a final decision is made regarding refund or exchange eligibility. Inspectors verify that the returned item matches the original order, confirm its condition, and determine whether it complies with the published return requirements. If inconsistencies are identified, customer support may request additional information before completing the review. The inspection process is designed to ensure consistent application of company policies while protecting both customers and the business from processing errors. Customers are notified once the inspection has been completed and a final decision has been reached."
+},
+{
+"id": "RP028",
+"title": "Returns with Missing Accessories",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Products returned without required accessories, manuals, charging cables, adapters, or other essential components may not qualify for a full refund. During inspection, the company evaluates whether the missing items affect product functionality, resale value, or the ability to verify the product's condition. If the missing components are considered essential, the return may be declined or a partial refund may be offered where permitted by policy. Customers should review the original package contents before shipping a return to ensure that all included items are returned together whenever possible."
+},
+{
+"id": "RP029",
+"title": "Returning Multiple Items from One Order",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Customers may return one or more eligible items from the same order without returning every product purchased. Each returned item is evaluated independently according to the applicable return requirements and refund eligibility criteria. Returning one product does not automatically affect the eligibility of other products from the same order. If promotional pricing depended on purchasing multiple items together, the refund amount may be adjusted to reflect the revised order value where permitted by policy. Customers receive a detailed confirmation explaining the outcome for each returned product."
+},
+{
+"id": "RP030",
+"title": "Exchange for Different Product Variants",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Customers requesting an exchange for a different size, color, or comparable product variant may do so within the applicable exchange period if inventory is available. The requested replacement must belong to the same product family unless customer support approves an alternative solution. If the selected replacement has a different purchase price, any applicable price difference is calculated before the exchange is finalized. Customers are informed of any additional payment required or refund due before the replacement order is confirmed. All exchanged items remain subject to the standard inspection process."
+},
+{
+"id": "RP031",
+"title": "Exchange Request Review",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Exchange requests are reviewed after customer support verifies eligibility, confirms inventory availability, and evaluates the returned product when required. The review process ensures that the requested exchange complies with the published exchange policy and that the replacement product can be fulfilled without unnecessary delay. Customers receive updates throughout the review if additional information is needed. Once approved, the exchange proceeds according to the standard fulfillment process. If the request cannot be approved, customer support explains the reason and, when appropriate, discusses other available resolution options."
+},
+{
+"id": "RP032",
+"title": "One-Time Exchange Limitation",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "To promote fair use of the exchange program, each eligible product may generally be exchanged only once. After a replacement has been issued, additional requests involving the same original purchase are reviewed only under exceptional circumstances, such as verified manufacturing defects affecting the replacement item. Requests for repeated exchanges based solely on changing customer preferences are normally not approved. Customers are encouraged to carefully review product specifications before requesting an exchange to ensure the selected replacement best meets their requirements."
+},
+{
+"id": "RP033",
+"title": "Cancellation Confirmation",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "An order cancellation is considered complete only after the customer receives an official confirmation from the company. Submitting a cancellation request does not automatically stop fulfillment because the request must first be verified against the current processing status. If cancellation is successful, customers receive confirmation that includes the affected order details and any applicable refund information. If cancellation cannot be completed because processing has already advanced, the notification explains the available alternatives under the company's return and refund policies. Customers should retain cancellation confirmations for future reference."
+},
+{
+"id": "RP034",
+"title": "Customer-Initiated Order Corrections",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers are responsible for reviewing order information before completing checkout. If an error is discovered after submission, such as an incorrect product selection or quantity, a correction request should be submitted immediately. Customer support will determine whether the requested modification can be completed before fulfillment begins. Although reasonable efforts are made to accommodate correction requests, successful modification depends on order status and operational constraints. If changes are no longer possible, customers may use the applicable return or exchange process after delivery if eligibility requirements are satisfied."
+},
+{
+"id": "RP035",
+"title": "Changes to Billing Information",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Billing information associated with an order may be updated only before payment verification has been completed and only when permitted by applicable payment security requirements. Customers requesting billing corrections may be asked to verify their identity to protect against unauthorized account activity. Once payment has been fully processed and the order has entered fulfillment, billing information generally cannot be changed for that transaction. Customers requiring updated billing records after purchase should contact customer support to determine whether revised documentation can be provided without altering the completed payment transaction."
+},
+{
+"id": "RP036",
+"title": "Removing Items Before Shipment",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request removal of individual products from an order before warehouse fulfillment begins. Approval depends on inventory allocation, promotional pricing, payment adjustments, and operational status. Removing an item may change shipping costs, discounts, or tax calculations associated with the remaining products. Updated totals are confirmed before the modification is finalized. If fulfillment has already started, item removal is generally unavailable because products have already been assigned for shipment. In such cases, customers may return eligible products after delivery according to the applicable return policy."
+},
+{
+"id": "RP037",
+"title": "Modification Requests During Peak Periods",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "During periods of exceptionally high order volume, modification and cancellation requests may require additional review time because fulfillment operations are processing increased demand. Customers should submit requests as soon as possible after placing an order to maximize the likelihood that changes can be completed before shipment. While customer support continues to review all requests fairly, operational deadlines during peak periods may reduce the opportunity for successful modifications. The company communicates any significant processing delays through standard customer support channels when necessary."
+},
+{
+"id": "RP038",
+"title": "Exchange Instead of Refund",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Customers who qualify for a refund may choose an exchange instead when a suitable replacement product is available. Selecting an exchange allows the customer to receive another eligible item without submitting a new purchase. Once the exchange option has been confirmed and processing has begun, the original refund request is considered withdrawn for that product. If the replacement later becomes unavailable before shipment, customer support will discuss alternative products or, when appropriate, restore the option to receive a refund in accordance with the applicable policy."
+},
+{
+"id": "RP039",
+"title": "Order Modification Communication",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customers requesting order modifications, cancellations, or exchanges should communicate through the official customer support channels associated with their account. Using authorized communication methods helps the company verify customer identity, maintain accurate request records, and provide timely updates throughout the review process. Requests submitted through unofficial channels may experience delays because additional verification may be required before any action can be taken. Customers should retain all confirmation messages related to their request until the matter has been fully resolved."
+},
+{
+"id": "RP040",
+"title": "Support Assistance for Refund and Return Questions",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customer support is available to assist with questions regarding refund eligibility, return procedures, exchanges, order cancellations, and order modifications. Support representatives can explain policy requirements, clarify the status of an existing request, and provide guidance on the appropriate next steps. While support staff work to resolve inquiries accurately and efficiently, they cannot approve exceptions that conflict with established company policies without appropriate authorization. Customers can help speed the resolution process by providing accurate order information and responding promptly to any requests for additional documentation."
+},
+{
+"id": "RP041",
+"title": "Refund Method Consistency",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Approved refunds are generally issued using the same payment method that was used to complete the original purchase. This approach helps protect customers against unauthorized financial transactions and supports accurate payment reconciliation. If the original payment method is no longer available because an account has been closed or a payment instrument has expired, customer support will review alternative refund options that comply with applicable financial regulations and company procedures. Customers may be asked to provide additional verification before an alternative refund method can be approved. The company reserves the right to determine the appropriate refund method when exceptional circumstances apply."
+},
+{
+"id": "RP042",
+"title": "Refund Requests Without Proof of Purchase",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "A valid proof of purchase is required before a refund request can be reviewed. Acceptable evidence may include an order confirmation, invoice, transaction record, or another company-issued purchase document that clearly identifies the order. Requests submitted without sufficient purchase verification cannot be processed because ownership of the transaction cannot be confirmed. If customers are unable to locate their purchase records, customer support may assist in locating the order using available account information. Refund eligibility is determined only after the purchase has been successfully verified."
+},
+{
+"id": "RP043",
+"title": "Refunds for Incomplete Deliveries",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "If an order arrives with missing products, customers should report the issue promptly before requesting a refund. The company first investigates whether the missing items were shipped separately, omitted during fulfillment, or affected by carrier-related issues. After the investigation is completed, the company may ship the missing products, issue a partial refund for the unavailable items, or provide another appropriate resolution. Customers should retain all delivered packaging until the review has concluded because additional information may be required to verify the shipment contents."
+},
+{
+"id": "RP044",
+"title": "Refund Decision Notification",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Customers receive written confirmation after a refund request has been reviewed and a final decision has been made. The notification explains whether the request has been approved, partially approved, or declined and may include the reason for the decision. If additional actions are required before processing can continue, the notification outlines the information or documentation needed. Customers should review the decision carefully and contact customer support if clarification is required. Maintaining transparent communication helps ensure that refund outcomes are clearly understood by all parties."
+},
+{
+"id": "RP045",
+"title": "Customer Responsibility Before Returning Products",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Before returning any eligible product, customers should remove personal belongings, saved information, or account-specific content that may remain on the item. The company is not responsible for personal information left on returned products or for data that becomes inaccessible during inspection or processing. Customers should also verify that the correct item is being returned and that all required components are included in the shipment. Taking these steps helps prevent delays during inspection and reduces the possibility of processing errors that could affect refund or exchange eligibility."
+},
+{
+"id": "RP046",
+"title": "Separate Evaluation of Returned Items",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "When multiple products are returned together, each item is evaluated independently according to the applicable return policy. Approval of one returned product does not automatically guarantee approval for other items included in the same shipment. Differences in product condition, eligibility, or documentation may lead to different outcomes for individual products. Customers receive a summary explaining the result for each item after inspection has been completed. This approach ensures that every returned product receives a fair and accurate assessment based on its own circumstances."
+},
+{
+"id": "RP047",
+"title": "Return Packaging Recommendations",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Customers are encouraged to package returned products securely to reduce the risk of damage during transportation. Appropriate protective materials should be used to help preserve the condition of the product until it reaches the inspection facility. Damage that occurs because of inadequate packaging may affect refund or exchange eligibility if the condition prevents proper evaluation or resale. While the original packaging is preferred whenever available, suitable protective packaging may also be used if it provides equivalent protection during transit."
+},
+{
+"id": "RP048",
+"title": "Return Requests for Gift Purchases",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "Products purchased as gifts may be eligible for return if they satisfy the standard return requirements and the original purchase can be verified. Depending on the circumstances of the purchase, refunds may be issued to the original purchaser, while recipients may be offered an exchange or another approved resolution when appropriate. Customer support reviews each request individually to protect payment security and ensure that authorized parties receive any applicable refunds. Gift recipients may be asked to provide additional information to assist with order verification."
+},
+{
+"id": "RP049",
+"title": "Exchange for Incorrect Size",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Customers who receive an item in the correct condition but determine that the selected size is unsuitable may request an exchange within the applicable exchange period. The product must remain unused beyond normal inspection and must satisfy all published return conditions. Exchanges depend on the availability of the requested size at the time the request is approved. If the preferred size is unavailable, customers may select another eligible option or request a refund if the purchase qualifies under the company's refund policy."
+},
+{
+"id": "RP050",
+"title": "Exchange Processing Time",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "The time required to complete an exchange depends on product inspection, inventory availability, and fulfillment capacity. Processing begins after the returned product has been received and approved according to the exchange policy. Customers receive updates when the replacement order has been created and when shipment preparations begin. If additional delays occur because of inventory limitations or verification requirements, customer support communicates the revised timeline whenever possible. Exchange processing times may differ from standard shipping times because inspection is completed before replacement fulfillment."
+},
+{
+"id": "RP051",
+"title": "Cancellation of Backordered Products",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request cancellation of backordered products before shipment has been initiated. Since backordered items have not yet entered standard fulfillment, cancellation requests are generally easier to process than requests involving products already being prepared for shipment. If payment has already been collected for the backordered product, any approved refund follows the company's standard refund processing procedures. Customers receive confirmation after the cancellation request has been completed or if additional review is required."
+},
+{
+"id": "RP052",
+"title": "Modifying Contact Information",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request updates to contact information associated with an order before shipment whenever operationally possible. Accurate email addresses and telephone numbers help ensure successful delivery communications and timely customer support. Requests received after shipment may not affect carrier records if shipping information has already been transmitted. Customers should verify their contact details before completing checkout to minimize communication issues during order fulfillment. Updated contact information becomes effective only after confirmation from customer support."
+},
+{
+"id": "RP053",
+"title": "Modification Requests for Preorders",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers may request changes to preorder details before fulfillment preparations begin. Eligible modifications may include shipping address updates, quantity adjustments, or cancellation, depending on product availability and operational status. Because preorder schedules can vary, modification deadlines may differ from those applied to standard orders. Customer support reviews each request according to the current fulfillment timeline and communicates whether the requested changes can be completed. Once preorder fulfillment begins, standard order modification limitations apply."
+},
+{
+"id": "RP054",
+"title": "Priority of Fulfillment Over Modification",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Order fulfillment activities are prioritized to maintain efficient shipping operations. As a result, modification requests submitted shortly before shipment may not always be completed before warehouse processing advances. Customer support makes reasonable efforts to review requests promptly, but approval depends on the current fulfillment stage and operational feasibility. Customers seeking to modify an order are encouraged to submit their request immediately after identifying the need for a change. Delayed requests may instead require use of the company's return or exchange procedures after delivery."
+},
+{
+"id": "RP055",
+"title": "Customer Verification for Cancellation Requests",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Cancellation requests may require customer identity verification before any changes are made to an existing order. Verification helps protect customer accounts from unauthorized modifications and reduces the risk of fraudulent cancellations. The verification process may include confirming order details, billing information, or account ownership using information already associated with the purchase. Requests that cannot be verified may remain pending or be declined until sufficient verification has been completed. Security requirements apply consistently regardless of the order value."
+},
+{
+"id": "RP056",
+"title": "Support Response for Refund Questions",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customer support aims to respond to refund-related inquiries within the company's standard service time. Response times may vary depending on inquiry volume, verification requirements, and the complexity of the request. Customers can help reduce processing delays by providing complete order information, a clear description of the issue, and any requested supporting documentation during the initial contact. While support representatives strive to provide accurate updates, final refund approval depends on compliance with all applicable company policies."
+},
+{
+"id": "RP057",
+"title": "Escalation of Refund Disputes",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customers who believe a refund request was evaluated incorrectly may request an internal review through customer support. The escalation process involves a secondary assessment of the available documentation, inspection findings, and applicable policy requirements. Additional information may be requested if necessary to complete the review. Escalation does not guarantee a different outcome but provides an opportunity to ensure that the original decision was consistent with company policies. Customers are notified once the review has been completed and a final determination has been reached."
+},
+{
+"id": "RP058",
+"title": "Support Assistance for Return Instructions",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customers who are uncertain about the correct return procedure should contact customer support before shipping any product. Support representatives provide return authorization instructions, explain eligibility requirements, and answer questions regarding packaging, documentation, and inspection procedures. Following the provided instructions helps reduce processing delays and minimizes the risk of returned products being sent to an incorrect location. Customers should retain all communications related to the return until the request has been fully completed."
+},
+{
+"id": "RP059",
+"title": "Maintaining Accurate Order Records",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customers are encouraged to retain copies of order confirmations, invoices, shipping notifications, and support communications until any refund, return, exchange, or cancellation request has been fully resolved. Accurate records help customer support verify purchase details more efficiently and may reduce delays during policy reviews. While the company maintains transaction records, customer-provided documentation can assist in resolving uncommon situations where additional verification is necessary. Maintaining organized records supports a smoother customer service experience throughout the order lifecycle."
+},
+{
+"id": "RP060",
+"title": "Scope of Refund and Return Policy",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "This refund and return policy applies only to purchases made directly through the company's official online store. Products obtained through unauthorized sellers, third-party marketplaces, or independent resellers are not covered unless explicitly stated by the company. Customers seeking assistance with purchases made through external sellers should contact the original seller in accordance with that seller's policies. Customer support can clarify whether an order falls within the scope of this policy by verifying the purchase source and associated order information."
+},
+{
+"id": "RP061",
+"title": "Customer Responsibility for Accurate Order Information",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Customers are responsible for ensuring that all order information, including product selection, quantity, shipping address, billing details, and contact information, is accurate before submitting an order. The company processes orders using the information provided during checkout and cannot guarantee that corrections will be possible after submission. If an error is identified, customers should contact customer support immediately. While reasonable efforts are made to accommodate modification requests before fulfillment begins, successful changes depend on the operational status of the order. Incorrect information that cannot be corrected before shipment may require the customer to use the applicable return or exchange process after delivery."
+},
+{
+"id": "RP062",
+"title": "Refund Eligibility After Product Inspection",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Approval of a refund is determined only after the returned product has successfully completed the inspection process. The inspection verifies product identity, condition, completeness, and compliance with the company's published return requirements. Submission of a refund request or return authorization does not guarantee approval. If the inspection identifies conditions that affect eligibility, customer support will communicate the findings and explain the resulting decision. Customers receive confirmation once the inspection is complete, along with any applicable refund amount or alternative resolution if the request cannot be fully approved."
+},
+{
+"id": "RP063",
+"title": "Exchange Requests for Unopened Products",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Products that remain unopened and unused may qualify for an exchange provided the request is submitted within the applicable exchange period. The product packaging should remain substantially intact to allow verification during inspection. Exchange approval depends on inventory availability and compliance with all applicable policy requirements. If the requested replacement is unavailable, customer support may offer another eligible product or discuss refund options where applicable. Opening a product solely for reasonable inspection does not automatically disqualify an exchange request unless the product category specifies otherwise."
+},
+{
+"id": "RP064",
+"title": "Return Deadline Based on Delivery Date",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "The applicable return period begins on the date the shipment is recorded as delivered to the customer or an authorized recipient. Delivery confirmation provided by the shipping carrier is used to determine the official start of the return window. Customers should inspect their purchases promptly after delivery to identify any issues while sufficient time remains to submit a return request. Delays in opening or using a delivered product do not extend the published return period unless an approved exception has been granted by customer support under the company's policy."
+},
+{
+"id": "RP065",
+"title": "Cancellation Requests Submitted Multiple Times",
+"category": "Orders",
+"source": "refund_policy.json",
+"text": "Submitting multiple cancellation requests for the same order does not increase the likelihood of approval or accelerate processing. Once a cancellation request has been received, customer support reviews the order according to its current fulfillment status and established company procedures. Duplicate requests may be consolidated into a single review to ensure consistent handling and accurate communication. Customers are encouraged to wait for the official response before submitting additional requests unless significant new information becomes available that may affect the review."
+},
+{
+"id": "RP066",
+"title": "Customer Support Communication Records",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "Customer support maintains records of communications related to refunds, returns, exchanges, cancellations, and order modifications to ensure accurate case management. These records help representatives understand previous interactions, avoid duplicate processing, and provide consistent assistance throughout the resolution process. Customers should reference existing case numbers or previous correspondence whenever contacting support regarding an ongoing request. Maintaining complete communication records supports efficient resolution while reducing the possibility of misunderstandings or repeated verification requests."
+},
+{
+"id": "RP067",
+"title": "Refund Requests for Promotional Purchases",
+"category": "Refund",
+"source": "refund_policy.json",
+"text": "Products purchased during promotional campaigns remain eligible for refunds if they satisfy all applicable refund and return requirements. The existence of a discount or promotional offer does not automatically limit refund eligibility unless the promotion specifically states otherwise before purchase. Refund amounts are calculated based on the actual amount paid for the eligible product rather than its standard retail price. If returning a promotional purchase changes the eligibility for a discount applied to the remaining items in the order, the final refund may be adjusted according to the original promotion terms."
+},
+{
+"id": "RP068",
+"title": "Exchange Approval Notification",
+"category": "Exchange",
+"source": "refund_policy.json",
+"text": "Customers receive an official notification after an exchange request has been approved. The confirmation includes the approved replacement product, any applicable payment adjustment, and the next steps in the fulfillment process. If inventory availability changes before shipment, customer support will contact the customer to discuss available alternatives. Customers should review the exchange confirmation carefully and report any discrepancies promptly. The exchange process proceeds only after all required verification and approval steps have been successfully completed."
+},
+{
+"id": "RP069",
+"title": "Return Requests for Multiple Shipments",
+"category": "Returns",
+"source": "refund_policy.json",
+"text": "When an order is delivered in multiple shipments, the return eligibility period for each product begins on the delivery date of the shipment containing that specific item. Customers do not need to wait until every shipment has arrived before requesting a return for eligible products already delivered. Each shipment is evaluated independently according to the applicable return window and policy requirements. This approach ensures that customers receive the full return period for every product regardless of how the order was divided during fulfillment."
+},
+{
+"id": "RP070",
+"title": "Policy Updates and Future Orders",
+"category": "Support",
+"source": "refund_policy.json",
+"text": "The company may revise its refund, return, exchange, cancellation, and order modification policies from time to time to reflect operational improvements, legal requirements, or changes in business practices. Updated policies apply to eligible purchases made after the effective date of the revision unless otherwise stated. Orders placed before a published policy update are generally evaluated according to the policy that was in effect when the purchase was completed. Customers are encouraged to review the current policy before placing a new order to understand the terms applicable to future purchases."
+}
+]
+
+
+
