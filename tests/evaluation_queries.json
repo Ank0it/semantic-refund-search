@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q001",
+    "type": "direct",
+    "query": "Can I return a damaged product?",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q002",
+    "type": "direct",
+    "query": "How long do I have to request a refund?",
+    "expected_category": "Refund"
+  },
+  {
+    "id": "Q003",
+    "type": "direct",
+    "query": "Can I exchange a defective item?",
+    "expected_category": "Exchange"
+  },
+  {
+    "id": "Q004",
+    "type": "direct",
+    "query": "What happens if I receive the wrong item?",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q005",
+    "type": "direct",
+    "query": "Can I cancel my order before shipping?",
+    "expected_category": "Orders"
+  },
+  {
+    "id": "Q006",
+    "type": "paraphrased",
+    "query": "I want my money back.",
+    "expected_category": "Refund"
+  },
+  {
+    "id": "Q007",
+    "type": "paraphrased",
+    "query": "The package came broken.",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q008",
+    "type": "paraphrased",
+    "query": "I received something different.",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q009",
+    "type": "paraphrased",
+    "query": "The refund hasn't reached my bank yet.",
+    "expected_category": "Payments"
+  },
+  {
+    "id": "Q010",
+    "type": "paraphrased",
+    "query": "Can I undo my purchase?",
+    "expected_category": "Orders"
+  },
+  {
+    "id": "Q011",
+    "type": "vague",
+    "query": "Refund",
+    "expected_category": "Refund"
+  },
+  {
+    "id": "Q012",
+    "type": "vague",
+    "query": "Return",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q013",
+    "type": "vague",
+    "query": "Damaged",
+    "expected_category": "Returns"
+  },
+  {
+    "id": "Q014",
+    "type": "vague",
+    "query": "Exchange",
+    "expected_category": "Exchange"
+  },
+  {
+    "id": "Q015",
+    "type": "vague",
+    "query": "Warranty",
+    "expected_category": "Warranty"
+  },
+  {
+    "id": "Q016",
+    "type": "no-answer",
+    "query": "How do I change my password?",
+    "expected_category": null
+  },
+  {
+    "id": "Q017",
+    "type": "no-answer",
+    "query": "How can I delete my account?",
+    "expected_category": null
+  },
+  {
+    "id": "Q018",
+    "type": "no-answer",
+    "query": "Where can I book a hotel?",
+    "expected_category": null
+  },
+  {
+    "id": "Q019",
+    "type": "no-answer",
+    "query": "How do I learn Python?",
+    "expected_category": null
+  },
+  {
+    "id": "Q020",
+    "type": "no-answer",
+    "query": "What's today's weather?",
+    "expected_category": null
+  }
+]
