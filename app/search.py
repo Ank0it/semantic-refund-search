@@ -29,6 +29,9 @@ class SemanticSearch:
     Handles semantic retrieval from ChromaDB.
     """
 
+    # Minimum similarity required to return a result
+    MIN_SIMILARITY = 0.40
+
     def __init__(self) -> None:
         self.model = SentenceTransformer(EMBEDDING_MODEL)
 
@@ -49,6 +52,8 @@ class SemanticSearch:
         """
         Perform semantic search.
         """
+
+        query = query.lower().strip()
 
         embedding = self.model.encode(query).tolist()
 
@@ -73,8 +78,10 @@ class SemanticSearch:
         top_k: int = TOP_K,
     ) -> list[dict]:
         """
-        Semantic search with metadata filtering.
+        Perform semantic search with metadata filters.
         """
+
+        query = query.lower().strip()
 
         embedding = self.model.encode(query).tolist()
 
@@ -102,28 +109,38 @@ class SemanticSearch:
 
         return self._format_results(results)
 
-    @staticmethod
-    def _format_results(results: dict) -> list[dict]:
+    def _format_results(
+        self,
+        results: dict,
+    ) -> list[dict]:
         """
-        Convert ChromaDB output into API-friendly format.
+        Convert ChromaDB results into API-friendly format.
         """
 
         formatted = []
 
-        documents = results["documents"][0]
-        metadatas = results["metadatas"][0]
-        distances = results["distances"][0]
+        documents = results.get("documents", [[]])[0]
+        metadatas = results.get("metadatas", [[]])[0]
+        distances = results.get("distances", [[]])[0]
+
+        if not documents:
+            return []
+
+        # Reject the query only if even the BEST match is too far away.
+        BEST_MATCH_DISTANCE_THRESHOLD = 1.50
+
+        if distances[0] > BEST_MATCH_DISTANCE_THRESHOLD:
+             return []
 
         for document, metadata, distance in zip(
             documents,
             metadatas,
             distances,
         ):
-            similarity = round(1 - float(distance), 4)
 
             formatted.append(
                 {
-                    "score": similarity,
+                    "score": round(float(distance), 4),   # keep raw distance
                     "text": document,
                     "metadata": metadata,
                 }
